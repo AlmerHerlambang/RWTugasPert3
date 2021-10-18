@@ -67,11 +67,11 @@ hr {
 }
 
 
-.section-introduction, .section-education, .section-working, .section-graduate, .section-hobby, .section-organisasi, .section-exjob,. section-schnonformal{
+.section-introduction, .section-education, .section-working, .section-graduate, .section-hobby, .section-organisasi{
     text-align: center;
 }
 
-.section-education, .section-working, .section-graduate, .section-hobby, .section-organisasi, .section-exjob,. section-schnonformal{
+.section-education, .section-working, .section-graduate, .section-hobby, .section-organisasi{
     display: inline-block;
     margin-top: 5em;
 }
@@ -208,7 +208,7 @@ footer {
         text-align: right;
     }
 
-    .section-working, .section-education, .section-graduate, .section-hobby, .section-organisasi, .section-exjob,. section-schnonformal{
+    .section-working, .section-education, .section-graduate, .section-hobby, .section-organisasi{
         width: 49.5%;
         vertical-align: top;
     }
